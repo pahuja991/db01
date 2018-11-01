@@ -1,5 +1,5 @@
 <?php
-uses Illuminate\Database\Seeder;
+use Illuminate\Database\Seeder;
 class userseeder extends Seeder
 {
     /**
